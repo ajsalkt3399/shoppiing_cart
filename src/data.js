@@ -8,7 +8,7 @@ const data = {
     },
     {
       id: '2',
-      name: 'Product B',
+      name: 'Product B1',
       price: 40,
       image: require('./images/1957060443.jpg'),
     },
